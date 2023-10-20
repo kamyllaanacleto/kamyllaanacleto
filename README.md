@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>sou aluna de informatica </h2>
+<h3>sou aluna de informatica </h3>
 
 
 <!--
